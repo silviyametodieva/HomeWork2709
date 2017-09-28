@@ -2,3 +2,4 @@ Content...
 
 Resolve a conflict
 Hello2
+Hello
