@@ -1,11 +1,7 @@
 Content...
 
 Resolve a conflict
-<<<<<<< HEAD
 Hello2
 Hello
-=======
+Resolve a conflict2
 
-Make changes...
-
->>>>>>> NewBranch
