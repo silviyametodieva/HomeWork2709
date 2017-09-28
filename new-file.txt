@@ -1,2 +1,6 @@
 Content...
+<<<<<<< HEAD
 Add changes
+=======
+
+>>>>>>> 160d0b4291510c6ad1748e8097627b63d33bec0d
